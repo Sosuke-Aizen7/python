@@ -1,4 +1,4 @@
-def fib(n):
+def fib(n): #this is function for generating fibo series
     if(n==0 or n==1):
         return n
    
